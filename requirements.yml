@@ -1,0 +1,7 @@
+---
+roles:
+  - name: elliotweiser.osx-command-line-tools
+  - name: nxpkg.dotfiles
+
+collections:
+  - name: nxpkg.mac
